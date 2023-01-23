@@ -1,0 +1,24 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    margin: 15% 25%;
+    
+}
+.first{
+    margin-bottom: 10%;
+}
+.second{
+    margin-bottom: 5%;
+}
+.third{
+    margin-bottom: 3%;
+}
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 15% 25%;
+}
+th, td{
+    padding: 10% 20px;
+    border: 1px solid #000;
+}
